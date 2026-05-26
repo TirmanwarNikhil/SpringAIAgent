@@ -1,6 +1,5 @@
 # SpringAIAgent
 
-# Spring AI Agent
 
 A Spring Boot application that demonstrates Retrieval-Augmented Generation (RAG) using Spring AI. This application ingests PDF documents, converts them into embeddings, stores them in a vector database, and uses an LLM to answer questions based on the document content.
 
